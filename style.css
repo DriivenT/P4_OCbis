@@ -892,7 +892,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
@@ -907,6 +907,7 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    white-space: nowrap;
 }
 
 .ltc-white:hover {
@@ -1009,10 +1010,14 @@ h4 {
 @media (max-width: 767px) {
 
     /* CSS AJOUTE */
-    li{
+    p{
+        font-size: 1em;
+    }
+
+    .border{
         border: none;
     }
-     
+
     .here{
         background-color: transparent;
         color: #575757!important;
