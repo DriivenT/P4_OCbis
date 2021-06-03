@@ -1,6 +1,6 @@
 # La Chouette Agence #
 
-# Compétences
+### Compétences ###
 
 - Assurer l'accessibilité d'un site web  
 - Écrire un code HTML et CSS maintenable  
