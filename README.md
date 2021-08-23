@@ -1,4 +1,6 @@
 # La Chouette Agence #
+Site optimisé par mes soins pour le projet 4 de la formation de Développeur Web d'Openclassrooms.
+Le site non optimisé fournit par Openclassrooms est disponible ici: https://github.com/DriivenT/P4_OC
 
 ### Compétences ###
 
